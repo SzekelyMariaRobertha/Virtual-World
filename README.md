@@ -15,14 +15,14 @@ Moreover, the stage has a space arranged for a small airport. The other one side
 The user has the possibility to view the scene in several ways: Solid, Wireframe, Poligonal and Smooth.
 Also, the user can move through the scene using the keys. It can go forward, backward, left, right and even rotate around the X and Y axes. Moreover, you can control the directional light within the scene, to better observe the point source of light. You will also be able to activate the fog effect and observe a series of animations such as the plane on the runway and a dancer skating on the lake.
 
-| Scene View Mode                                     |
+| Scene View Mode                 |                   |
 | --------------------------------------------------- |
 | SOLID                           |  Key 1            |
 | WIREFRAME                       |  Key 2            |
 | POLIGONAL                       |  Key 3            |
 | SMOOTH                          |  Key 4            |
 | --------------------------------------------------- |
-| Other keyboard commands                             |
+| Other keyboard commands         |                   |
 | --------------------------------------------------- |
 | Forward                         | Key W             |
 | Backward                        | Key S             |
