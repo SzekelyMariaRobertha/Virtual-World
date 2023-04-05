@@ -23,7 +23,7 @@ Also, the user can move through the scene using the keys. It can go forward, bac
 | SMOOTH                          |  Key 4            |
 | --------------------------------------------------- |
 | Other keyboard commands                             |
-| ----------------------------------------------------|
+| --------------------------------------------------- |
 | Forward                         | Key W             |
 | Backward                        | Key S             |
 | Left                            | Key A             |   
