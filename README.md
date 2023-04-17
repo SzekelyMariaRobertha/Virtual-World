@@ -1,5 +1,5 @@
 # Virtual-World
-This project aims to create a photorealistic presentation of scenes of 3D objects using the libraries OpenGl, GLFW, GLM, etc. The user must be able to control the scene via mouse or keyboard.
+This project aims to create a photorealistic presentation of scenes of 3D objects using the libraries OpenGL, GLFW, GLM, etc. The user must be able to control the scene via mouse or keyboard.
 
 ## Requirements
 Visual Studio 2022
